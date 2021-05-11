@@ -3,13 +3,6 @@ package org.example.models;
 import java.util.Scanner;
 
 public interface Calculator {
-    /*
-        1. Define the calculation methods - DONE
-        2. Define a scanner - DONE
-        3. Define static methods to take input - DONE
-        4. Make a default method called calculate - DONE
-        5. Implement! - DONE
-     */
 
     Scanner SCANNER = new Scanner(System.in);
 
